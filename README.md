@@ -15,7 +15,7 @@
 
 ### This project took around 8 hours to complete.
 
-### Project Link : [Link](https://rode-ui-clone-dashboard.netlify.app/)
+### Project Link : [Link](https://shopify-ui-clone-dashboard.netlify.app/)
 
 ### Screenshot :
 
